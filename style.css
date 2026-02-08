@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color:#ABDADC;
+}
+
+
+.caption {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+h3 {
+    color: darkblue;
+}
+
+p {
+    font-size: 16px;
+    color: darkblue;
+}
+.weather-link {
+  text-decoration: none;
+  color: darkblue;
+  background-color: skyblue;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9CCFFF;
+    color: darkblue;
+    border: none;
+}
